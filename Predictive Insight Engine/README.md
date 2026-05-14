@@ -130,7 +130,7 @@ Batch GD converges fastest and most smoothly. SGD reaches a similar loss floor b
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Predictive-Insight-Engine.git
+git clone[ https://github.com/<your-username>/Predictive-Insight-Engine.git](https://github.com/krish-desai-123/Supervised-Learning-ML/tree/main/Predictive%20Insight%20Engine)
 cd Predictive-Insight-Engine
 ```
 
