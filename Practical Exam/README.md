@@ -80,7 +80,7 @@ The goal is to evaluate the models on business-relevant metrics and package the 
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/krish-desai-123/telco-churn-supervised-learning.git
+git clone https://github.com/krish-desai-123/Supervised-Learning-ML/tree/main/Practical%20Exam
 cd telco-churn-supervised-learning
 ```
 
