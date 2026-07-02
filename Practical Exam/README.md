@@ -165,8 +165,7 @@ predictions = pipeline.predict(new_customer_df)
 # 📺 Video Walkthrough
 
 🎥 **Project Explanation & Code Walkthrough**
-
-> Coming Soon
+(https://drive.google.com/file/d/1z5PDEc8XZre98hcB-NJnHBmIs5oBfuPf/view?usp=drive_link)
 
 ---
 
